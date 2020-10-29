@@ -1,1 +1,1 @@
-# codeA3 empty file is here, plese check the following files.
+# codeA3 in github， the codes of original game and motified game are included in this file.
